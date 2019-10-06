@@ -1,0 +1,53 @@
+header{
+  float: left !important;
+  font-family: 'Helvetica Neue', sans-serif;
+
+}
+
+p {
+  color: #111;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0 0 24px;
+  text-align: justify;
+  text-justify: inter-word;
+  background-color: #111;
+}
+
+#word {
+  color: #111;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 275px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
+  margin: auto;
+}
+
+h2 {
+  color: #111;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 32px;
+  margin: 0 0 72px;
+  text-align: center;
+  font-family: 'Helvetica Neue', sans-serif;
+
+}
+
+
+.container {
+  background-color: #e1ad01;
+  color: #111;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  margin: 0 0 24px;
+  text-align: center;
+  text-justify: inter-word;
+}
+
+
